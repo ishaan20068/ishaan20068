@@ -13,7 +13,7 @@ I'm an undergraduate student pursuing BTech from Indraprastha Institute of Infor
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
-  <img src="https://www.oomnitza.com/integration/github/" title="github" alt="github" width="40" height="40"/>&nbsp;
+  <img src="https://drive.google.com/file/d/16A2Cbt7oUWs5cjnKssalyibzoNpA5se1/view?usp=sharing" title="github" alt="github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="intellij" alt="intellij" width="40" height="40"/>&nbsp;
@@ -30,13 +30,15 @@ I'm an undergraduate student pursuing BTech from Indraprastha Institute of Infor
 ## :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ishaan20068&theme=dark&background=000000)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishaan20068&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 <div id="header" align="center">
-  <img src="https://preview.redd.it/yrni1y026ld51.jpg?auto=webp&s=a7eb450db6a4bdaa1d3261e6d15774b92f5b2407" width="100"/>
+  <img src="https://preview.redd.it/yrni1y026ld51.jpg?auto=webp&s=a7eb450db6a4bdaa1d3261e6d15774b92f5b2407" width="300"/>
 </div>
+
 
 
 <!--
