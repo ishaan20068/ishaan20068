@@ -29,7 +29,7 @@ I'm an undergraduate student pursuing BTech from Indraprastha Institute of Infor
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/ishaan20068">
-    <img src="[github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)" alt="github Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="github Badge"/>
   </a>
 </div>
 
