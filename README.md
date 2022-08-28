@@ -32,7 +32,10 @@ I'm an undergraduate student pursuing BTech from Indraprastha Institute of Infor
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="github Badge"/>
   </a>
   <a href="https://www.instagram.com/otakuishaan/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="github Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram Badge"/>
+  </a>
+  <a href="ishaan20068@iiitd.ac.in">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="gmail Badge"/>
   </a>
 </div>
 
