@@ -24,7 +24,7 @@ I'm an undergraduate student pursuing BTech from Indraprastha Institute of Infor
 
 ## Connect With Me
 
-
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 ## :fire: My Stats :
 
