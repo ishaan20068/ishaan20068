@@ -19,6 +19,7 @@ I'm an undergraduate student pursuing BTech from Indraprastha Institute of Infor
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://simpleicons.org/icons/github.svg" title="Github" **alt="Github" width="40" height="40"/>
 </div>
 
 ## Connect With Me
@@ -36,6 +37,7 @@ I'm an undergraduate student pursuing BTech from Indraprastha Institute of Infor
 <div id="header" align="center">
   <img src="https://preview.redd.it/yrni1y026ld51.jpg?auto=webp&s=a7eb450db6a4bdaa1d3261e6d15774b92f5b2407" width="300"/>
 </div>
+
 
 
 
