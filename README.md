@@ -34,6 +34,12 @@ I'm an undergraduate student pursuing BTech from Indraprastha Institute of Infor
   <a href="https://www.instagram.com/otakuishaan/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram Badge"/>
   </a>
+  <a href="https://codeforces.com/profile/ishaan20068">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="codeforces Badge"/>
+  </a>
+  <a href="https://www.codechef.com/users/ishaan20068">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="codechef Badge"/>
+  </a>
 </div>
 
 
