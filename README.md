@@ -7,7 +7,7 @@ I'm an undergraduate student pursuing BTech from Indraprastha Institute of Infor
 I'm very fond of learning new concepts and technologies. I particularly love Algorithms and their analysis and problem solving.
 
 <div id="header" align="center">
-  <img src="https://preview.redd.it/yrni1y026ld51.jpg?auto=webp&s=a7eb450db6a4bdaa1d3261e6d15774b92f5b2407" width="1000"/>
+  <img src="https://preview.redd.it/yrni1y026ld51.jpg?auto=webp&s=a7eb450db6a4bdaa1d3261e6d15774b92f5b2407" width="500"/>
 </div>
 <!--
 **ishaan20068/ishaan20068** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
