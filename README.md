@@ -19,7 +19,7 @@ I'm an undergraduate student pursuing BTech from Indraprastha Institute of Infor
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/github.svg" title="Github" **alt="Github" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="github Badge"/>
 </div>
 
 ## Connect With Me
@@ -33,9 +33,6 @@ I'm an undergraduate student pursuing BTech from Indraprastha Institute of Infor
   </a>
   <a href="https://www.instagram.com/otakuishaan/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram Badge"/>
-  </a>
-  <a href="ishaan20068@iiitd.ac.in">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="gmail Badge"/>
   </a>
 </div>
 
