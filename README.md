@@ -25,11 +25,14 @@ I'm an undergraduate student pursuing BTech from Indraprastha Institute of Infor
 ## Connect With Me
 
 <div id="badges">
-  <a href="[linkedin-URL](https://www.linkedin.com/in/ishaan-marwah-384787221/)">
+  <a href="https://www.linkedin.com/in/ishaan-marwah-384787221/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/ishaan20068">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="github Badge"/>
+  </a>
+  <a href="https://www.instagram.com/otakuishaan/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="github Badge"/>
   </a>
 </div>
 
