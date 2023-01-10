@@ -42,13 +42,6 @@ I'm an undergraduate student pursuing BTech from Indraprastha Institute of Infor
   </a>
 </div>
 
-
-## :fire: My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishaan20068&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 <div id="header" align="center">
   <img src="https://preview.redd.it/yrni1y026ld51.jpg?auto=webp&s=a7eb450db6a4bdaa1d3261e6d15774b92f5b2407" width="400"/>
 </div>
