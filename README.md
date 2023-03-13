@@ -3,8 +3,23 @@
 ## 🚀 About Me
 I'm an undergraduate student pursuing BTech from Indraprastha Institute of Information Technology Delhi (IIIT Delhi).
 * :computer: I'm very fond of learning new concepts and technologies. 
+* 🔭 I’m currently working on **Online Min-cost Bipartite Metric Matching problem in Euclidean Norms**
+* 🌱 I’m currently learning **Randomized Algorithms, Approximation Algorithms and Combinatorial Algorithms**
 * :man_technologist: I particularly love Algorithms and their analysis and problem solving.
 * :sparkles: My hobbies: Singing, learning musical instruments, Origami, Anime drawing, Recreational Mathematics
+* 💬 Ask me about **Randomized Algorithms, Approximation Algorithms and Combinatorial Algorithms**
+* 📫 How to reach me **ishaan20068@iiitd.ac.in**
+* 📄 Know about my experiences [resume link](resume link)
+* 📝 I regularly write articles on [blog link](blog link)
+* ⚡ Fun fact **Greedy Approach in many Online algorithms is generally worse than randomly giving output :)**
+
+## 👨‍💻 My Stats
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishaan20068&label=Profile%20views&color=0e75b6&style=flat" alt="ishaan20068" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishaan20068" alt="ishaan20068" /></a> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishaan20068&" alt="ishaan20068" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaan20068&show_icons=true&locale=en" alt="ishaan20068" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishaan20068&show_icons=true&locale=en&layout=compact" alt="ishaan20068" /></p>
+
 
 ## 🛠 Languages and Technologies
 
