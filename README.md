@@ -22,7 +22,6 @@ I'm an undergraduate student pursuing BTech from Indraprastha Institute of Infor
 
 
 ## 🛠 Languages and Technologies
-
 <div>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white" alt="c++"/>
   <img src="https://img.shields.io/badge/java-FC6603?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
@@ -38,7 +37,6 @@ I'm an undergraduate student pursuing BTech from Indraprastha Institute of Infor
 </div>
 
 ## Connect With Me
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/ishaan-marwah-384787221/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
