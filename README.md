@@ -63,7 +63,7 @@ I'm an undergraduate student pursuing BTech from Indraprastha Institute of Infor
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ishaan20068/ishaan20068/output/snake.svg" alt="Snake animation" />
 
 ###
 <!--
