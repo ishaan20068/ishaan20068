@@ -59,7 +59,7 @@ I'm an undergraduate student pursuing BTech from Indraprastha Institute of Infor
   <img src="https://preview.redd.it/yrni1y026ld51.jpg?auto=webp&s=a7eb450db6a4bdaa1d3261e6d15774b92f5b2407" width="400"/>
 </div>
 
-
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 
 <!--
