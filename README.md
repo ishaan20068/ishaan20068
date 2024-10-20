@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Ishaan Marwah
 
 ## 🚀 About Me
-I'm completed my BTech from Indraprastha Institute of Information Technology Delhi (IIIT Delhi). 
+I've completed my BTech from Indraprastha Institute of Information Technology Delhi (IIIT Delhi). 
 * :computer: I'm very fond of learning new mathematics and computer science concepts. 
 * 🔭 I have worked on **Online Min-cost Bipartite Metric Matching problem in Euclidean Norms**
 * 🌱 I’m currently learning theoretical computer science and coding the things that I learn
